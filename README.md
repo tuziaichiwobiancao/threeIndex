@@ -22,11 +22,11 @@
 
 开发进程api文档:
 
-接口文档地址:https://doc.hyperindex.tk
+接口文档地址:https://doc.kime.eu.org
 
 开发到最新的时候将实时更新接口文档
 
-最新版本的后台展示:https://three.hyperindex.tk/wocaole.php
+最新版本的后台展示:https://three.kime.eu.org/wocaole.php
 
 用户名:admin
 
